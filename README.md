@@ -1,2 +1,2 @@
-# recipes-scraper
+# Recipes-Scraper
 UiPath Recipes Data Scraper
