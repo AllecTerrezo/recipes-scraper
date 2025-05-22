@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "resources": [
+    {
+      "resource": "asset",
+      "metadata": {
+        "folderPath": {
+          "defaultValue": "FruitReceipsFinder",
+          "isExpression": false
+        },
+        "name": {
+          "defaultValue": "USDA_API_Key",
+          "isExpression": false
+        },
+        "BindingsVersion": {
+          "defaultValue": "2.1",
+          "isExpression": false
+        },
+        "SolutionsSupport": {
+          "defaultValue": "true",
+          "isExpression": false
+        }
+      }
+    }
+  ]
+}
